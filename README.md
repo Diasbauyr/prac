@@ -36,6 +36,7 @@ Properly using of active,hover states.
 Ability to hide/show the answer.
 
 ### Screenshot
+![Снимок экрана (388)](https://user-images.githubusercontent.com/91119416/140552880-ca9ee59a-4387-4762-b219-3113316bb021.png)
 
 
 
